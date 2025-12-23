@@ -5,9 +5,11 @@
 ## Hey!, I'm Lisseth Fabián <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 ### Glad to see you here! :octocat:
+
 I am interested in programming and technology, as I enjoy learning how systems work and creating solutions through code. 
 I like developing my programming skills and learning something new every day. My dream is to study Systems Engineering and
-grow professionally to contribute technological solutions that help people
+grow professionally to contribute technological solutions that help people.
+
 ---
 
 ### :blush: Talking about Personal Stuffs 
@@ -20,7 +22,6 @@ grow professionally to contribute technological solutions that help people
 -  🚀 &nbsp; I’m currently learning video game development using Python
 -  :computer: &nbsp; Most written code line console.log("hello world"); 
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lisseth2010)
-  
 &nbsp; &nbsp; &nbsp;
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lissethf913@gmail.com?subject=Hello%20Lisseth,%20From%20Github) &nbsp;
